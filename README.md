@@ -22,7 +22,7 @@ Change `src`to desired path of image
 
 ```html
 <div>
-        <p style="float: left; padding-right: 10px; padding-top: 0 px;"><img src="/content/dam/nyu-as/irelandHouse/images/eventpages/9-16-16PatrickOurceau.JPG" alt="9-16-16PatrickOurceau.JPG"></p>
+        <p style="float: left; padding-right: 20px; padding-top: 5px;"><img src="/content/dam/nyu-as/irelandHouse/images/eventpages/9-16-16PatrickOurceau.JPG" alt="9-16-16PatrickOurceau.JPG"></p>
         <div>Fiddle standout Patrick Ourceau - born in Paris, long resident in New York and now living in Toronto - is one of the most accomplished members of Ireland's musical foreign legion. His style is based on that of his musical heroes, old-time fiddle, flute and concertina players from Clare and east Galway. One of those heroes was the late east Galway and New York flute player Jack Coen, whose son Jimmy is one of the few guitarists in Irish traditional music who concentrates on melody rather than accompaniment.</div>
 </div>
 ```
