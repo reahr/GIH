@@ -12,7 +12,7 @@ Change `href` link and `span` text
         </a>
 </div>
 ```
-[See example here](http://as.nyu.edu/irelandhouse/about/space-rental-information/internal-nyu-space-rental-information.html)
+[example](http://as.nyu.edu/irelandhouse/about/space-rental-information/internal-nyu-space-rental-information.html)
 
 Events
 ------
@@ -39,7 +39,7 @@ For any minor information on events page, add `font-size:75%` to the `style` att
         <p>All events are supported by members of Glucksman Ireland House.&nbsp;<a href="http://irelandhouse.fas.nyu.edu/page/enroll.html">Become a member</a>.</p>
 </div>
 ```
-[See example here](https://ursa.cms.nyu.edu/editor.html/content/nyu-as/as/research-centers/irelandhouse/events/spring-2017/BlarneyStarCathalHayden.html)
+[example](https://ursa.cms.nyu.edu/editor.html/content/nyu-as/as/research-centers/irelandhouse/events/spring-2017/BlarneyStarCathalHayden.html)
 
 
 
