@@ -16,9 +16,9 @@ Change `href` link and `span` text
 
 Events
 ------
-⋅⋅*Change `padding-bottom` to 5px and `padding-right` to 20px
-⋅⋅*Change `height` to 250 and `width` to 250
-⋅⋅*Change `src`to desired path of image 
+* Change `padding-bottom` to 5px and `padding-right` to 20px
+* Change `height` to 250 and `width` to 250
+* Change `src`to desired path of image 
 
 ```html
 <div>
@@ -26,9 +26,8 @@ Events
         <div>Fiddle standout Patrick Ourceau - born in Paris, long resident in New York and now living in Toronto - is one of the most accomplished members of Ireland's musical foreign legion. His style is based on that of his musical heroes, old-time fiddle, flute and concertina players from Clare and east Galway. One of those heroes was the late east Galway and New York flute player Jack Coen, whose son Jimmy is one of the few guitarists in Irish traditional music who concentrates on melody rather than accompaniment.</div>
 </div>
 ```
-⋅⋅*In order to remove certain paragraphs/text from being formatted alongside an image, add `clear:left` to the `style` attribute
-⋅⋅*For any minor information on events page, add `font-size:75%` to the `style` attribute
-
+* In order to remove certain paragraphs/text from being formatted alongside an image, add `clear:left` to the `style` attribute
+* For any minor information on events page, add `font-size:75%` to the `style` attribute
 ```
 <div style="clear: left; font-size: 75%;">
         <p>Free admission to Members of Glucksman Ireland House and to all students/faculty with a valid NYU I.D. card. For non-members: $15 donation at the door for the Blarney Star Concert Series.</p>
