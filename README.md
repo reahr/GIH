@@ -15,7 +15,9 @@ Change `href` link and `span` text
 Events
 ------
 Change `padding-bottom` to 5px and `padding-right` to 20px
+
 Change `height` to 250 and `width` to 250
+
 Change `src`to desired path of image 
 
 ```html
@@ -25,6 +27,7 @@ Change `src`to desired path of image
 </div>
 ```
 In order to remove certain paragraphs/text from being formatted alongside an image, add `clear:left` to the `style` attribute
+
 For any minor information on events page, add `font-size:75%` to the `style` attribute
 
 ```
