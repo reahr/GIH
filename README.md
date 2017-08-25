@@ -6,11 +6,9 @@ Buttons
 -------
 Change `href` link and `span` text
 ```html
-<div class="nyu-button  ">
-        <a class="btn btn__theme--dark hidden-print btn__theme " role="button" href="http://www.nyu.edu/admissions/summer-sessions/summer-abroad/programs/summer-in-dublin.html" target="_blank">
-            <span>Apply Today</span>
-        </a>
-</div>
+<p>
+        <a class="btn" href="http://www.publicaffairsbooks.com/book/a-radical-faith/9781568585734" role="button" target="_blank" style="color: rgb(72, 150, 110); text-decoration: none;" onmouseover="this.style.color='#FFF'" onmouseout="this.style.color=' #48966e'; this.style.textDecoration='none'"><b>Buy The Book</b></a>
+</p>
 ```
 [Example](http://as.nyu.edu/irelandhouse/about/space-rental-information/internal-nyu-space-rental-information.html)
 
