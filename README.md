@@ -1,5 +1,7 @@
 # GIH AEM
 
+This README is for those who intend to edit the [GIH](http://as.nyu.edu/irelandhouse.html) site regularly and an introduction on how to format different components within the site using simple HTML and CSS.
+
 Insert code into a "Generic Content" component, expand editor, and click on the second `</>` button.
 
 Buttons
@@ -20,7 +22,7 @@ Events
 
 ```html
 <div>
-        <p style="float: left; padding-right: 20px; padding-top: 5px;"><img src="/content/dam/nyu-as/irelandHouse/images/eventpages/9-16-16PatrickOurceau.JPG" alt="9-16-16PatrickOurceau.JPG"></p>
+        <p style="float: left; padding-right: 20px; padding-top: 5px;"><img src="asset" alt="9-16-16PatrickOurceau.JPG"></p>
         <div>Fiddle standout Patrick Ourceau - born in Paris, long resident in New York and now living in Toronto - is one of the most accomplished members of Ireland's musical foreign legion. His style is based on that of his musical heroes, old-time fiddle, flute and concertina players from Clare and east Galway. One of those heroes was the late east Galway and New York flute player Jack Coen, whose son Jimmy is one of the few guitarists in Irish traditional music who concentrates on melody rather than accompaniment.</div>
 </div>
 ```
