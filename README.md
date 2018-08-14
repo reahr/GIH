@@ -1,6 +1,6 @@
 # GIH AEM
 
-This README is for those who intend to edit the [GIH](http://as.nyu.edu/irelandhouse.html) site regularly and an introduction on how to format different components within the site using simple HTML and CSS.
+This README is for those who intend to edit the [GIH](http://as.nyu.edu/irelandhouse.html) site regularly and want an introduction on how to format different components within the site using simple HTML and CSS.
 
 Insert code into a "Generic Content" component, expand editor, and click on the second `</>` button.
 
