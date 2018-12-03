@@ -39,5 +39,111 @@ Events
 ```
 [Example](https://ursa.cms.nyu.edu/editor.html/content/nyu-as/as/research-centers/irelandhouse/events/spring-2017/BlarneyStarCathalHayden.html)
 
+Course Offerings
+------------------
+````html 
+<table style="border: solid 1px; width: 100%;">
+    <tbody>
+    <!--Change to current semester-->
+    <tr>
+        <th colspan="3" style="border: solid 1px; padding: 10px;"><b>Graduate Courses for Fall 2018</b></th>
+    </tr>
+    <!--History Section-->
+    <tr>
+        <th colspan="3" style="border: solid 1px;"><b>History</b></th>
+    </tr>
+    <!--First course for history-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1416.001 / EURO-GA / HIST-GA</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/history-of-modern-ireland-i-15801800.html"
+                target="_blank">History of Modern Ireland I: To 1800</a><br>
+            Thomas Truxes<br>
+            Wednesdays 3:30-6:00 PM<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Second course for history-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/history-of-modern-ireland-i-15801800.html"
+                target="_blank">Irish in New York</a><br>
+            Marion Casey<br>
+            Wednesdays 6:10-8:40 PM<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Literature section-->
+    <tr>
+        <th colspan="3" style="border: solid 1px;"><b>Literature</b></th>
+    </tr>
+    <!--First course for literature-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1085.001</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/topics-in-irish-literature.html"
+                target="_blank">Topics in Irish Literature: The Big House Novel</a><br>
+            Kelly Sullivan<br>
+            Tuesdays 6:10-8:40 PM<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Irish Studies / Culture set-->
+    <tr>
+        <th colspan="3" style="border: solid 1px;"><b>Irish Studies</b></th>
+    </tr>
+    <!--First course for culture-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1001</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/irish-studies-seminar-i.html"
+                target="_blank">Irish Studies MA Seminar I</a><br>
+            John P. Waters<br>
+            Wednesdays 6:10-8:40 PM<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Second course for culture-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1319</td>
+        <td style="border: solid 1px; padding: 10px;">Irish Music in America 1750-Present<br>
+            Mick Moloney<br>
+            Mondays 6:10-8:40 PM<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Section for other-->
+    <tr>
+        <th colspan="3" style="border: solid 1px;"><b>Other</b></th>
+    </tr>
+    <!--First course for other-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1097</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/independent-study.html" target="_blank">Independent
+            Study</a><br>
+            Miriam Nyhan Grey<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    <!--Second course for other-->
+    <tr>
+        <td style="border: solid 1px; text-align: center;">IRISH-GA 1099</td>
+        <td style="border: solid 1px; padding: 10px;"><a
+                href="/content/nyu-as/as/research-centers/irelandhouse/courses/guided-research.html" target="_blank">Guided
+            Research</a><br>
+            Miriam Nyhan Grey<br>
+            Contact Irish Studies for registration code
+        </td>
+    </tr>
+    </tbody>
+</table>
+````
+[Example](https://ursa.cms.nyu.edu/content/nyu-as/as/research-centers/irelandhouse/graduate/CourseOfferingsF17.html)
+
+Each section is commented along with each course for the section. If you need to remove a table row, remove the <tr>...</tr> for the extra course offering.
+
+All information is within the <td>...</td>, follow the template for new courses and potentially new sections.
 
 
